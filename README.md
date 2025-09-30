@@ -44,7 +44,7 @@ Console.WriteLine(decrypted); // "secret text"
 
 ##  Integration
 
-Simply copy [`AES_Sharper.cs`](./AES_Sharper.cs) into your project.  
+Simply copy [`AES_Sharper.cs`](./AES-Sharper.cs) into your project.  
 No dependencies besides the standard .NET libraries.
 
 ---
