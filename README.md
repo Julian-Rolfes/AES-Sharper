@@ -20,7 +20,6 @@
 ##  Quick Start
 
 ```csharp
-using System.Security.Cryptography;
 
 // Initialize
 var aes = new AES_Sharper();
