@@ -13,7 +13,6 @@
 - AES-256 CBC encryption and decryption
 - Secure key derivation (PBKDF2 + SHA256)
 - Minimal code, easy integration
-- Independent from `sharper`, but compatible
 - MIT License – Open Source, no restrictions
 
 ---
