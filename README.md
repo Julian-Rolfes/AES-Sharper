@@ -57,11 +57,7 @@ No dependencies besides the standard .NET libraries.
 
 ---
 
-##  Background
 
-This project was created as a standalone extension to [`sharper v2`](https://github.com/Julian-Rolfes/sharper), after requests from users for a simple, secure AES implementation for .NET.
-
----
 
 ##  License
 
